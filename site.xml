@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.maven.ide.eclipse.feature_0.10.0.20100209-0800.jar" id="org.maven.ide.eclipse.feature" version="0.10.0.20100209-0800">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.testng.eclipse_5.12.0.6.jar" id="org.testng.eclipse" version="5.12.0.6">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.eclipse.ajdt_2.1.0.e36x-20100622-1600.jar" id="org.eclipse.ajdt" version="2.1.0.e36x-20100622-1600">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.eclipse.ajdt.source_2.1.0.e36x-20100622-1600.jar" id="org.eclipse.ajdt.source" version="2.1.0.e36x-20100622-1600">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/com.atlassian.connector.commons_2.2.0.v20100621.jar" id="com.atlassian.connector.commons" version="2.2.0.v20100621">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/com.atlassian.connector.eclipse_2.2.0.v20100621.jar" id="com.atlassian.connector.eclipse" version="2.2.0.v20100621">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/com.atlassian.connector.eclipse.commons_2.2.0.v20100621.jar" id="com.atlassian.connector.eclipse.commons" version="2.2.0.v20100621">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/com.atlassian.connector.eclipse.jira_2.2.0.v20100621.jar" id="com.atlassian.connector.eclipse.jira" version="2.2.0.v20100621">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/com.atlassian.connector.eclipse.monitor_2.2.0.v20100621.jar" id="com.atlassian.connector.eclipse.monitor" version="2.2.0.v20100621">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.springframework.ide.eclipse.aop.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.aop.feature" version="2.3.3.201006202200-CI-R3784-B779">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.springframework.ide.eclipse.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.feature" version="2.3.3.201006202200-CI-R3784-B779">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.springframework.ide.eclipse.mylyn.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.mylyn.feature" version="2.3.3.201006202200-CI-R3784-B779">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.springframework.ide.eclipse.osgi.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.osgi.feature" version="2.3.3.201006202200-CI-R3784-B779">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.springframework.ide.eclipse.webflow.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.webflow.feature" version="2.3.3.201006202200-CI-R3784-B779">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/com.springsource.sts_2.3.3.201006210808-CI-R5182-B261.jar" id="com.springsource.sts" version="2.3.3.201006210808-CI-R5182-B261">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/net.sourceforge.pmd.eclipse_3.2.6.v200903300643.jar" id="net.sourceforge.pmd.eclipse" version="3.2.6.v200903300643">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.hibernate.eclipse.feature_3.3.0.v201007020601N-H408-M1.jar" id="org.hibernate.eclipse.feature" version="3.3.0.v201007020601N-H408-M1">
+      <category name="devenv"/>
+   </feature>
+   <category-def name="devenv" label="Developer environment"/>
+</site>
