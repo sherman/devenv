@@ -51,5 +51,8 @@
    <feature url="features/org.hibernate.eclipse.feature_3.3.0.v201007020601N-H408-M1.jar" id="org.hibernate.eclipse.feature" version="3.3.0.v201007020601N-H408-M1">
       <category name="devenv"/>
    </feature>
+   <feature url="features/net.sf.eclipsecs_5.1.0.201002232103.jar" id="net.sf.eclipsecs" version="5.1.0.201002232103">
+      <category name="devenv"/>
+   </feature>
    <category-def name="devenv" label="Developer environment"/>
 </site>
