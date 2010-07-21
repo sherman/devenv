@@ -54,5 +54,11 @@
    <feature url="features/net.sf.eclipsecs_5.1.0.201002232103.jar" id="net.sf.eclipsecs" version="5.1.0.201002232103">
       <category name="devenv"/>
    </feature>
+   <feature url="features/org.maven.ide.eclipse.feature_0.10.2.20100623-1649.jar" id="org.maven.ide.eclipse.feature" version="0.10.2.20100623-1649">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.hibernate.eclipse.feature_3.3.0.v20100721-0947-H86-M2.jar" id="org.hibernate.eclipse.feature" version="3.3.0.v20100721-0947-H86-M2">
+      <category name="devenv"/>
+   </feature>
    <category-def name="devenv" label="Developer environment"/>
 </site>
