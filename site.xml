@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.maven.ide.eclipse.feature_0.10.0.20100209-0800.jar" id="org.maven.ide.eclipse.feature" version="0.10.0.20100209-0800">
-      <category name="devenv"/>
-   </feature>
    <feature url="features/org.testng.eclipse_5.12.0.6.jar" id="org.testng.eclipse" version="5.12.0.6">
       <category name="devenv"/>
    </feature>
@@ -46,9 +43,6 @@
       <category name="devenv"/>
    </feature>
    <feature url="features/net.sourceforge.pmd.eclipse_3.2.6.v200903300643.jar" id="net.sourceforge.pmd.eclipse" version="3.2.6.v200903300643">
-      <category name="devenv"/>
-   </feature>
-   <feature url="features/org.hibernate.eclipse.feature_3.3.0.v201007020601N-H408-M1.jar" id="org.hibernate.eclipse.feature" version="3.3.0.v201007020601N-H408-M1">
       <category name="devenv"/>
    </feature>
    <feature url="features/net.sf.eclipsecs_5.1.0.201002232103.jar" id="net.sf.eclipsecs" version="5.1.0.201002232103">
