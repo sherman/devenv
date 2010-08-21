@@ -27,7 +27,7 @@
    <feature url="features/org.springframework.ide.eclipse.aop.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.aop.feature" version="2.3.3.201006202200-CI-R3784-B779">
       <category name="devenv"/>
    </feature>
-   <feature url="features/org.springframework.ide.eclipse.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.feature" version="2.3.3.201006202200-CI-R3784-B779">
+   <feature url="features/org.springframework.ide.eclipse.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.feature" version="2.3.3.201006202200-CI-R3784-B779" patch="true">
       <category name="devenv"/>
    </feature>
    <feature url="features/org.springframework.ide.eclipse.mylyn.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.mylyn.feature" version="2.3.3.201006202200-CI-R3784-B779">
@@ -58,6 +58,15 @@
       <category name="devenv"/>
    </feature>
    <feature url="features/org.scala-ide.sdt.weaving.feature_1.0.0.201007312310.jar" id="org.scala-ide.sdt.weaving.feature" version="1.0.0.201007312310">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.hibernate.eclipse.feature_3.3.0.v20100820-1242-H295-M2.jar" id="org.hibernate.eclipse.feature" version="3.3.0.v20100820-1242-H295-M2" patch="true">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.scala-ide.sdt.feature_1.0.0.201008202330.jar" id="org.scala-ide.sdt.feature" version="1.0.0.201008202330" patch="true">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.scala-ide.sdt.weaving.feature_1.0.0.201008202330.jar" id="org.scala-ide.sdt.weaving.feature" version="1.0.0.201008202330" patch="true">
       <category name="devenv"/>
    </feature>
    <category-def name="devenv" label="Developer environment"/>
