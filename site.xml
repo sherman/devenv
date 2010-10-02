@@ -69,5 +69,17 @@
    <feature url="features/org.scala-ide.sdt.weaving.feature_1.0.0.201008202330.jar" id="org.scala-ide.sdt.weaving.feature" version="1.0.0.201008202330" patch="true">
       <category name="devenv"/>
    </feature>
+   <feature url="features/org.hibernate.eclipse.feature_3.3.0.v20101002-0548-H39-Beta2.jar" id="org.hibernate.eclipse.feature" version="3.3.0.v20101002-0548-H39-Beta2" patch="true">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/net.sf.eclipsecs_5.1.1.201008161956.jar" id="net.sf.eclipsecs" version="5.1.1.201008161956" patch="true">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.scala-ide.sdt.feature_1.0.0.201010020300.jar" id="org.scala-ide.sdt.feature" version="1.0.0.201010020300" patch="true">
+      <category name="devenv"/>
+   </feature>
+   <feature url="features/org.scala-ide.sdt.weaving.feature_1.0.0.201010020300.jar" id="org.scala-ide.sdt.weaving.feature" version="1.0.0.201010020300" patch="true">
+      <category name="devenv"/>
+   </feature>
    <category-def name="devenv" label="Developer environment"/>
 </site>
