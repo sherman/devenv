@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.testng.eclipse_5.12.0.6.jar" id="org.testng.eclipse" version="5.12.0.6">
-      <category name="devenv"/>
-   </feature>
-   <feature url="features/org.eclipse.ajdt_2.1.0.e36x-20100622-1600.jar" id="org.eclipse.ajdt" version="2.1.0.e36x-20100622-1600">
-      <category name="devenv"/>
-   </feature>
    <feature url="features/org.eclipse.ajdt.source_2.1.0.e36x-20100622-1600.jar" id="org.eclipse.ajdt.source" version="2.1.0.e36x-20100622-1600">
       <category name="devenv"/>
    </feature>
@@ -24,61 +18,46 @@
    <feature url="features/com.atlassian.connector.eclipse.monitor_2.2.0.v20100621.jar" id="com.atlassian.connector.eclipse.monitor" version="2.2.0.v20100621">
       <category name="devenv"/>
    </feature>
-   <feature url="features/org.springframework.ide.eclipse.aop.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.aop.feature" version="2.3.3.201006202200-CI-R3784-B779">
+   <feature url="features/net.sourceforge.pmd.eclipse_3.2.6.v200903300643.jar" id="net.sourceforge.pmd.eclipse" version="3.2.6.v200903300643">
       <category name="devenv"/>
    </feature>
-   <feature url="features/org.springframework.ide.eclipse.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.feature" version="2.3.3.201006202200-CI-R3784-B779" patch="true">
+   <feature url="features/org.hibernate.eclipse.feature_3.3.0.v20101002-0548-H39-Beta2.jar" id="org.hibernate.eclipse.feature" version="3.3.0.v20101002-0548-H39-Beta2">
       <category name="devenv"/>
    </feature>
-   <feature url="features/org.springframework.ide.eclipse.mylyn.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.mylyn.feature" version="2.3.3.201006202200-CI-R3784-B779">
+   <feature url="features/org.maven.ide.eclipse.scala_feature_0.2.3.jar" id="org.maven.ide.eclipse.scala_feature" version="0.2.3">
       <category name="devenv"/>
    </feature>
-   <feature url="features/org.springframework.ide.eclipse.osgi.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.osgi.feature" version="2.3.3.201006202200-CI-R3784-B779">
+   <feature url="features/org.scala-ide.sdt.feature_2.0.0.201105131126-beta4-92f1b27.jar" id="org.scala-ide.sdt.feature" version="2.0.0.201105131126-beta4-92f1b27">
       <category name="devenv"/>
    </feature>
-   <feature url="features/org.springframework.ide.eclipse.webflow.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.webflow.feature" version="2.3.3.201006202200-CI-R3784-B779">
+   <feature url="features/org.scala-ide.sdt.weaving.feature_2.0.0.201105131126-beta4-92f1b27.jar" id="org.scala-ide.sdt.weaving.feature" version="2.0.0.201105131126-beta4-92f1b27">
       <category name="devenv"/>
    </feature>
    <feature url="features/com.springsource.sts_2.3.3.201006210808-CI-R5182-B261.jar" id="com.springsource.sts" version="2.3.3.201006210808-CI-R5182-B261">
       <category name="devenv"/>
    </feature>
-   <feature url="features/net.sourceforge.pmd.eclipse_3.2.6.v200903300643.jar" id="net.sourceforge.pmd.eclipse" version="3.2.6.v200903300643">
+   <feature url="features/org.springframework.ide.eclipse.aop.feature_2.5.1.201011101000-RELEASE.jar" id="org.springframework.ide.eclipse.aop.feature" version="2.5.1.201011101000-RELEASE">
       <category name="devenv"/>
    </feature>
-   <feature url="features/net.sf.eclipsecs_5.1.0.201002232103.jar" id="net.sf.eclipsecs" version="5.1.0.201002232103">
+   <feature url="features/org.springframework.ide.eclipse.feature_2.5.1.201011101000-RELEASE.jar" id="org.springframework.ide.eclipse.feature" version="2.5.1.201011101000-RELEASE">
       <category name="devenv"/>
    </feature>
-   <feature url="features/org.maven.ide.eclipse.feature_0.10.2.20100623-1649.jar" id="org.maven.ide.eclipse.feature" version="0.10.2.20100623-1649">
+   <feature url="features/org.springframework.ide.eclipse.mylyn.feature_2.3.3.201006202200-CI-R3784-B779.jar" id="org.springframework.ide.eclipse.mylyn.feature" version="2.3.3.201006202200-CI-R3784-B779">
       <category name="devenv"/>
    </feature>
-   <feature url="features/org.hibernate.eclipse.feature_3.3.0.v20100721-0947-H86-M2.jar" id="org.hibernate.eclipse.feature" version="3.3.0.v20100721-0947-H86-M2">
+   <feature url="features/org.springframework.ide.eclipse.osgi.feature_2.5.1.201011101000-RELEASE.jar" id="org.springframework.ide.eclipse.osgi.feature" version="2.5.1.201011101000-RELEASE">
       <category name="devenv"/>
    </feature>
-   <feature url="features/org.scala-ide.sdt.feature_1.0.0.201007312310.jar" id="org.scala-ide.sdt.feature" version="1.0.0.201007312310">
+   <feature url="features/org.springframework.ide.eclipse.webflow.feature_2.5.1.201011101000-RELEASE.jar" id="org.springframework.ide.eclipse.webflow.feature" version="2.5.1.201011101000-RELEASE">
       <category name="devenv"/>
    </feature>
-   <feature url="features/org.scala-ide.sdt.weaving.feature_1.0.0.201007312310.jar" id="org.scala-ide.sdt.weaving.feature" version="1.0.0.201007312310">
+   <feature url="features/org.testng.eclipse_6.0.1.20110426_1108.jar" id="org.testng.eclipse" version="6.0.1.20110426_1108">
       <category name="devenv"/>
    </feature>
-   <feature url="features/org.hibernate.eclipse.feature_3.3.0.v20100820-1242-H295-M2.jar" id="org.hibernate.eclipse.feature" version="3.3.0.v20100820-1242-H295-M2" patch="true">
+   <feature url="features/net.sf.eclipsecs_5.3.0.201012121300.jar" id="net.sf.eclipsecs" version="5.3.0.201012121300">
       <category name="devenv"/>
    </feature>
-   <feature url="features/org.scala-ide.sdt.feature_1.0.0.201008202330.jar" id="org.scala-ide.sdt.feature" version="1.0.0.201008202330" patch="true">
-      <category name="devenv"/>
-   </feature>
-   <feature url="features/org.scala-ide.sdt.weaving.feature_1.0.0.201008202330.jar" id="org.scala-ide.sdt.weaving.feature" version="1.0.0.201008202330" patch="true">
-      <category name="devenv"/>
-   </feature>
-   <feature url="features/org.hibernate.eclipse.feature_3.3.0.v20101002-0548-H39-Beta2.jar" id="org.hibernate.eclipse.feature" version="3.3.0.v20101002-0548-H39-Beta2" patch="true">
-      <category name="devenv"/>
-   </feature>
-   <feature url="features/net.sf.eclipsecs_5.1.1.201008161956.jar" id="net.sf.eclipsecs" version="5.1.1.201008161956" patch="true">
-      <category name="devenv"/>
-   </feature>
-   <feature url="features/org.scala-ide.sdt.feature_1.0.0.201010020300.jar" id="org.scala-ide.sdt.feature" version="1.0.0.201010020300" patch="true">
-      <category name="devenv"/>
-   </feature>
-   <feature url="features/org.scala-ide.sdt.weaving.feature_1.0.0.201010020300.jar" id="org.scala-ide.sdt.weaving.feature" version="1.0.0.201010020300" patch="true">
+   <feature url="features/org.maven.ide.eclipse.feature_0.12.1.20110112-1712.jar" id="org.maven.ide.eclipse.feature" version="0.12.1.20110112-1712">
       <category name="devenv"/>
    </feature>
    <category-def name="devenv" label="Developer environment"/>
